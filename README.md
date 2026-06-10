@@ -17,7 +17,7 @@ on a marketing homepage: a fake product running inside a browser-chrome frame,
 with a simulated cursor that clicks through scripted "chapters," a framework for
 spawning floating overlay windows, and a dev panel to drive it all by hand.
 
-Inspired from [Fern's marketing-site](https://buildwithfern.com/) homepage
+Inspired by [Fern's marketing-site](https://buildwithfern.com/) homepage
 animation into a reusable, product-agnostic starting point. Swap in your own
 product, keep the machinery.
 
