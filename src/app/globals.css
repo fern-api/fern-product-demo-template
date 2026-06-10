@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* The page backdrop the demo sits on. A soft off-gray so the browser frame
+   reads as a floating window — swap this for your own brand backdrop. */
+body {
+  background: #e9eaec;
+  min-height: 100vh;
+}
+
+.demo-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px;
+  gap: 32px;
+}
+
+.demo-page-heading {
+  text-align: center;
+  color: rgba(17, 17, 19, 0.92);
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.demo-page-heading h1 {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.demo-page-heading p {
+  margin: 8px 0 0;
+  font-size: 15px;
+  color: rgba(17, 17, 19, 0.55);
+}
