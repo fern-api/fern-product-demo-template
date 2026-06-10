@@ -14,7 +14,8 @@ npm install
 npm run dev      # http://localhost:3000
 ```
 
-![the demo](#) <!-- drop a screenshot here -->
+<img width="1880" height="1184" alt="fern-product-demo-template-screenshot" src="https://github.com/user-attachments/assets/5be494a4-5add-4b97-8334-e2d3ed1add14" />
+
 
 ---
 
